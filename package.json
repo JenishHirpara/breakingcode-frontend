@@ -47,5 +47,6 @@
     "not dead",
     "not op_mini all"
   ],
-  "proxy": "https://breakingcode.onrender.com"
+  "proxy": "https://breakingcode.onrender.com",
+  "homepage": "https://uiuc2062335.gitlab.io/breaking-code"
 }
